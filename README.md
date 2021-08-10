@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shemaya-dot-hub
+- 👋 Hi, I’m @shem maina
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on 
