@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shem maina
+- 👋 Hi, I’m @Shem G Maina
 - 👀 I’m a front-end web developer(HTML,CSS,JavaScript)
 - 🌱 currently learning data science and Machine learning .
 - 💞️ I’m looking to collaborate on any web development projects and also intermediate machine learning roles.
