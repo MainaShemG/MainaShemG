@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shem G Maina
 - 👀 I’m a front-end web developer(HTML,CSS,JavaScript)
-- 🌱 currently learning data science and Machine learning .
+- 🌱 Comfortable with Python and currently learning data science and Machine learning .
 - 💞️ I’m looking to collaborate on any web development projects and also intermediate machine learning roles.
 - I also write technical articles .Check out my work(https://dev.to/mainashem) 
 - 📫 How to reach me for any jobs or assistance mainashem5@gmail.com 
