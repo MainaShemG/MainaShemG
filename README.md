@@ -7,7 +7,7 @@
 - twitter(https://twitter.com/shemaya_45)
 
 little but honest work they say
-https://github-readme-stats.vercel.app/api?username=MainaShemG&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+https://github-readme-stats.vercel.app/api?username=shemaya&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
 
 
 <!---
