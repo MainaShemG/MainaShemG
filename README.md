@@ -5,8 +5,9 @@
 - I also write technical articles .Check out my work(https://dev.to/mainashem) 
 - 📫 How to reach me for any jobs or assistance mainashem5@gmail.com 
 - twitter(https://twitter.com/shemaya_45)
--(https://github-readme-stats.vercel.app/api?username=shemaya&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-little but honest work they say
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shemaya&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shemaya&langs_count=5&theme=tokyonight)]()
+
 
 
 
