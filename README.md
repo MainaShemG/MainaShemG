@@ -8,6 +8,8 @@
 
 little but honest work they say
 
+![](https://github.com/MainaShemG/github-stats/blob/master/generated/overview.svg)
+
 <!---
 shemaya-dot-hub/shemaya-dot-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
