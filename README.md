@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shem G Maina
-- 👀 I’m a data scientist ad a machine learning enthusist
+- 👀 I’m a data scientist and a machine learning enthusiast
 - I am also a front-end web developer(HTML,CSS,JavaScript)
 - 🌱Python expert and currently working on creatig data pipelines
 - 💞️ I’m looking to collaborate on any data engineering projects and also Machine Learning roles.
