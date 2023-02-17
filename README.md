@@ -2,7 +2,7 @@
 - 👀 I’m a data scientist ad a machine learning enthusist
 - I am also a front-end web developer(HTML,CSS,JavaScript)
 - 🌱Python expert and currently working on creatig data pipelines
-- 💞️ I’m looking to collaborate on any web development projects and also intermediate machine learning roles.
+- 💞️ I’m looking to collaborate on any data engineering projects and also Machine Learning roles.
 - I also write technical articles .Check out my work(https://dev.to/mainashem) 
 - 📫 How to reach me for any jobs or assistance mainashem5@gmail.com 
 - twitter(https://twitter.com/shemaya_45)
